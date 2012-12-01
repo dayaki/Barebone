@@ -1,0 +1,1 @@
+Barebone: A Beautiful Barebone Boilerplate for Responsive, Mobile-Friendly Development built on a fuild - percentage based - layout. 
